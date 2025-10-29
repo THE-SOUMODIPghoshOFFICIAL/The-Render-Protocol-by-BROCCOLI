@@ -1,6 +1,6 @@
 # The Render Protocol // by BROCCOLI
 
-A creative protocol dedicated to rendering visually compelling experiences using only vanilla HTML, CSS, and JavaScript. This repository serves as a codex for experiments in design, animation, and interactivity.
+A creative protocol dedicated to rendering visually compelling experiences using only vanilla HTML, CSS, and JavaScript. 
 
 ---
 
