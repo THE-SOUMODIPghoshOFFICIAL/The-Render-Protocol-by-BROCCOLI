@@ -1,7 +1,9 @@
+
+
 <div align="center" style="margin-bottom: 30px;">
     <!-- Place your preferred image here -->
     <div id="hero-img" style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; margin: 0 auto 18px auto; box-shadow: 0 4px 24px #0006; background: #222; display: flex; align-items: center; justify-content: center;">
-        <!-- Example: <img src="YOUR_IMAGE_URL_HERE" alt="Render Protocol Logo" style="width: 100%; height: 100%; object-fit: cover;"> -->
+         <img src="https://thumbs.dreamstime.com/z/artist-painting-canvas-ai-projector-provides-digital-guidance-floral-still-life-overlays-futuristic-image-402954558.jpg" alt="Render Protocol Logo" style="width: 100%; height: 100%; object-fit: cover;"> 
     </div>
     <h1 style="font-size: 2.7em; font-weight: 900; letter-spacing: 2px; color: #61afef; margin-bottom: 0; text-shadow: 0 2px 12px #0007;">🎨 The Render Protocol</h1>
     <h2 style="font-size: 1.3em; font-weight: 400; color: #e5c07b; margin-top: 0.5em; margin-bottom: 0.7em; letter-spacing: 1px;">by BROCCOLI</h2>
