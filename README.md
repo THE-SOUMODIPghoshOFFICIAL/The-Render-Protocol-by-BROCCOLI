@@ -111,6 +111,7 @@
     <div style="padding-left: 2em; padding-top: 10px;">
         <p style="color: #c8d1d9;">As this is a personal learning journey, I'm not actively seeking direct contributions to code.</p>
         <p style="color: #c8d1d9;">However, your feedback is highly valued! If you spot a bug, have a suggestion for <strong>cleaner CSS</strong> or <strong>more efficient JavaScript</strong>, or want to discuss a concept, please don't hesitate to:</p>
+        -
         <div style="text-align: center; margin-top: 20px;">
             <a href="https://github.com/THE-SOUMODIPghoshOFFICIAL/The-Render-Protocol-by-BROCCOLI/issues/new" target="_blank" style="display: inline-block; background-color: #98c379; color: #282c34; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1em; margin-top: 20px; border: none; cursor: pointer;">Open an Issue on GitHub</a>
         </div>
@@ -161,7 +162,7 @@
     <div style="padding-left: 2em; padding-top: 10px;">
         <p>As this is a personal learning journey, I'm not actively seeking direct contributions to code.</p>
         <p>However, your feedback is highly valued! If you spot a bug, have a suggestion for <strong>cleaner CSS</strong> or <strong>more efficient JavaScript</strong>, or want to discuss a concept, please don't hesitate to:</p>
-
+--
         <div style="text-align: center; margin-top: 20px;">
             <a href="https://github.com/THE-SOUMODIPghoshOFFICIAL/The-Render-Protocol-by-BROCCOLI/issues/new" target="_blank" style="display: inline-block; background-color: #98c379; color: #282c34; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1em; margin-top: 20px; border: none; cursor: pointer;">
                 Open an Issue on GitHub
@@ -169,7 +170,7 @@
         </div>
         <p style="margin-top: 20px;">Your insights help refine the protocol!</p>
     </div>
-
+--
 </details>
 
 <details style="border: none; margin-bottom: 0; padding-bottom: 0;">
