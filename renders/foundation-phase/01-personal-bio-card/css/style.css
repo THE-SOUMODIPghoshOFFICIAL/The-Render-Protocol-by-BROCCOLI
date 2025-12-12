@@ -25,5 +25,21 @@ html, body {
   background: linear-gradient(180deg, #071126 0%, #0b1b2a 100%);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial;
   color: var(--muted);
+}
 
+.bio-card{
+  width: 350px;
+ max-width: calc(100% - 2rem);
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  padding: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+  box-shadow:
+    0 6px 20px rgba(2, 6, 23, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.02);
 }
