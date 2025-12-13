@@ -53,3 +53,16 @@ html, body {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
 }
 
+.card-header h1 {
+  font-size: 1.25rem;
+  margin-top: 0.25rem;
+  color: #ffffff;
+  letter-spacing: 0.2px;
+}
+
+.role {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.75);
+  margin-top: 0.15rem;
+}
+
