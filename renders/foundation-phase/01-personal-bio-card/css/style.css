@@ -81,3 +81,32 @@ html, body {
   margin-top: 0.25rem;
 }
 
+.btn {
+  padding: 0.55rem 0.9rem;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  background: linear-gradient(90deg, var(--accent), #5fbfda);
+  color: #04201a;
+  box-shadow: 0 6px 18px rgba(123, 211, 137, 0.12);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(123, 211, 137, 0.18);
+}
+
+.btn.outline {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: none;
+}
+
+.btn.ghost {
+  background: transparent;
+  color: var(--muted);
+  opacity: 0.85;
+}
