@@ -110,3 +110,29 @@ html, body {
   color: var(--muted);
   opacity: 0.85;
 }
+
+.card-footer {
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+@media (max-width: 420px) {
+  .bio-card {
+    padding: 1.1rem;
+    width: 92%;
+  }
+  .avatar {
+    width: 92px;
+    height: 92px;
+  }
+}
+
+
+
+
+
+
+
+
+
