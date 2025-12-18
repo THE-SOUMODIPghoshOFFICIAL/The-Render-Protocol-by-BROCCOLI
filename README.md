@@ -121,13 +121,6 @@
     </div>
 </details>
 
-<details>
-    <summary style="font-size: 1.3em; font-weight: bold; color: #61afef; cursor: pointer; outline: none; padding: 10px 0;">📄 License</summary>
-    <div style="padding-left: 2em; padding-top: 10px;">
-        <p style="color: #c8d1d9;">This project is licensed under the <strong>MIT License</strong> - you can find the full details in the <a href="LICENSE" style="color: #61afef; text-decoration: none;">LICENSE</a> file.</p>
-        <p style="color: #c8d1d9;">Feel free to use, modify, and distribute according to the terms.</p>
-    </div>
-</details>
 
 <div align="center" style="margin-top: 40px; padding-top: 30px; border-top: 1px dashed #444;">
     <h3 style="font-size: 1.8em; color: #e6c07b; margin-bottom: 15px; letter-spacing: 1px;">✨ About the Architect ✨</h3>
